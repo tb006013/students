@@ -1,0 +1,10 @@
+.section .section--header .section--title .mysectiontitle {
+    font-size: 40px;
+}
+
+.my-article .my-article-p {
+    font-size: 20px;
+    color: #262626;
+    text-indent: 2em;
+    padding-bottom: 10px;
+}
